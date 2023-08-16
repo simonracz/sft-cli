@@ -91,7 +91,7 @@ func main() {
 
 	if encrypt {
 		url := encryptFiles(f, &options)
-		fmt.Println("Succesfully encrypted and uplaoded the file(s)")
+		fmt.Println("Successfully encrypted and uploaded the file(s)")
 		fmt.Println("Download url:")
 		fmt.Println(url)
 	} else {
