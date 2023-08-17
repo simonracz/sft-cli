@@ -1,5 +1,5 @@
 # Secure File Transfer CLI Client
-Code created during recording the [Implementing a CLI Client for a Cryptographic Web Application](https://youtu.be/GQBbgmbR1Ck) video.
+Code created during recording the [CLI Client for a Cryptographic Web Application](https://youtu.be/GQBbgmbR1Ck) video.
 A new CLI client for https://filetransfer.kpn.com
 
 # Requirements
