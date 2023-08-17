@@ -17,3 +17,7 @@ go build
 
 # Notes
 Implemented via the public whitepaper https://filetransfer.kpn.com/assets/pdfs/whitepaper.pdf
+
+# Demo
+
+![](sft_teaser.gif)
